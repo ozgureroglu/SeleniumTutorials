@@ -1,10 +1,3 @@
-# from selenium import webdriver
-
-# PATH="/Users/ozgur/Development/Code/PYTHON/SELENIUM/chromedriver-mac-arm64/chromedriver"
-# driver = webdriver.Chrome(PATH)
-# driver.get("https://google.com")    
-
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
